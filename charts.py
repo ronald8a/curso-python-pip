@@ -9,4 +9,4 @@ def generate_pie_chart():
     plt.savefig('pie.png')
     plt.close
     #"prueba"
-    #pp
+    #ppppp
